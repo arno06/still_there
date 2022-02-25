@@ -8,7 +8,8 @@ https://www.python.org/downloads/
 pip install pynput
 ```
 
-Run
+Usage
+---
 ```
 python still_there.py
 ```
